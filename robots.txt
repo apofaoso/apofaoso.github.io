@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://apofaoso.github.io/ENh/sitemap_index.txt
+Sitemap: https://apofaoso.github.io/Ksg/sitemap_index.txt
+Sitemap: https://apofaoso.github.io/SDV/sitemap_index.txt
+Sitemap: https://apofaoso.github.io/eFS/sitemap_index.txt
